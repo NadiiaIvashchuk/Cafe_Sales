@@ -11,7 +11,7 @@ This dataset is intentionally "dirty," with missing values, inconsistent data, a
 a realistic scenario for data cleaning and exploratory data analysis (EDA). It can be used to practice cleaning 
 techniques, data wrangling, and feature engineering.
 
-  **File Information   
+  **File Information**   
 File Name: dirty_cafe_sales.csv  
 Number of Rows: 10,000  
 Number of Columns: 8  
