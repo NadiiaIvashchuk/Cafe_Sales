@@ -12,8 +12,8 @@ a realistic scenario for data cleaning and exploratory data analysis (EDA). It c
 techniques, data wrangling, and feature engineering.
 
   **File Information**   
-File Name: dirty_cafe_sales.csv  
-Number of Rows: 10,000  
-Number of Columns: 8  
+- File Name: dirty_cafe_sales.csv  
+- Number of Rows: 10,000  
+- Number of Columns: 8  
 
 LINK: https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training
